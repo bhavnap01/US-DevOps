@@ -1,2 +1,1 @@
-Hello
-Welcome
+Welcome to DevSecOps Session!!
